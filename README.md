@@ -1,5 +1,5 @@
-travis-chef-provisioning
-========================
+Travis with Custom Chef Provisioning
+====================================
 
 This repo demonstrates how to run a custom Chef cookbook during the install phase in Travis CI.
 
